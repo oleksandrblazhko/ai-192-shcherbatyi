@@ -1,1 +1,1 @@
-### Огляд та локалізація рекомендацій OWASP Web Security Testing Guide
+### OWASP Application Security Verification Standard
